@@ -1,0 +1,19 @@
+Ref.: https://angular.io/cli
+
+1. Version Checkout
+   
+   ng version
+ 
+      or
+
+   ng v
+
+
+2. Creating a new priject in angular
+   
+   ng new <project_name>
+
+
+3. Run app on locahost (Default port is 4200)
+
+   ng serve (run iff we are inside a directory of <project_name>)

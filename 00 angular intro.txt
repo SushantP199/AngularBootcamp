@@ -1,0 +1,47 @@
+Angular 
+
+
+What version ?
+
+Angular first rolled out AngularJs i.e. Angular version 1
+
+Then team decided that its not really good , we need scrape it off 
+and write it from a scratch.
+
+Then they rolled out Angular i.e. Angular version 2
+
+Then what happened there was no backward compatibility
+everything that we write in Angular 2 is going to be completely
+breaking changes what happens in Angular 1
+This brings a lot of confusion in the community
+should I be learning Angular 2 or AngularJs or Angular 5 or Angular 6 or Angular 9
+
+We don't need to worry of that in 2020 or in moving forward in the future
+Whatever we learning in the Angular (i.e version Angular 9 but this version will be fine for upward versions too) from this version and onwards there will be 
+absolutely minimum backward breaking changes that gonna break our code.
+
+
+Why Angular is considered as Complex ?
+
+Compared to other libraries similar to this like react, Angular is bit more complex.
+
+Some says ...
+	...there are too much things to learn
+	...there is a involvement of typescript
+	...there is a involvement of RxJs
+	
+The whole reason behind why Angular is complex...
+	...too many of the jargon keywords
+		.Components
+		.Modules
+		.Directives
+		.Pipes
+		.Dependency Injection
+		.Services
+		.Routing
+
+
+Tools to get started
+.Code Editor
+.Node Js
+.NG (NG comes from aNGular i.e. 2 & 3 rd letter of word Angular)
