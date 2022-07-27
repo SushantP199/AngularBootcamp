@@ -1,0 +1,13 @@
+Typescript add a lot of syntactic sugar so that you have to write less amount of code.
+
+remember : 
+At the end of day all our typescript code transpiled into javascript and core javascript runs on the system.
+& thats a fact.
+
+
+we can write everything in javascript
+but, we are going realize the typescript serves us way better in angular compared to anything else.
+
+typescript playground : https://www.typescriptlang.org/play
+
+

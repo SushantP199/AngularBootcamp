@@ -1,0 +1,19 @@
+<div class="container">
+  <header>
+    <h1>{{title}}</h1>
+    <!-- The above syntax for injecting variable value i.e. {{<var_name>}} is called as interpolation-->
+  </header>
+
+  <main>
+    <h2>{{count}}</h2>
+    <p>Current Count Is</p>
+  </main>
+
+  <div class="action">
+    <button (click)="resetCount()">RESET</button>
+    <!-- Event Binding : something is happening (resetting counter value) on event (click event) is called as event binding-->
+    <button (click)="increaseCount()">+</button>
+    <button (click)="decreaseCount()">-</button>
+  </div>
+
+</div>
