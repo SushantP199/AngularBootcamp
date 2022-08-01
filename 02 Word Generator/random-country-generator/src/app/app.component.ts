@@ -24,7 +24,7 @@ export class AppComponent {
 
     while(this.randomCountries.length != this.randomNumber && this.randomCountries.length < this.randomNumber){
       
-      var randomIndex = Math.floor(Math.random() * this.randomNumber);
+      var randomIndex = Math.floor(Math.random() * countries.length);
 
       if (!this.randomCountries.includes(countries[randomIndex])){
         this.randomCountries.push(countries[randomIndex]);
