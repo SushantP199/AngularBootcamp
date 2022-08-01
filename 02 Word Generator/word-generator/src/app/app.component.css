@@ -1,0 +1,32 @@
+.slider {
+    appearance: none;
+    width: 25vw;
+    height: 10px;
+    background: #51e0ede0;
+    outline: none;
+    border-radius: 5px;
+    margin-top: 10vh;
+}
+
+.slider::-webkit-slider-thumb {
+    appearance: none;
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    background: #51e0ed;
+}
+
+button {
+    border-radius: 5px;
+    padding: 10px 35px;
+    margin: 10px 0;
+    background-color:#51e0ed;
+    font-weight: bolder;
+}
+
+h1 {
+    font-size: 70px;
+    font-weight: 500;
+    /* margin-top: 10px; */
+    color: #EDBF69;
+}

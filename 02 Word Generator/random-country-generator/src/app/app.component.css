@@ -1,0 +1,49 @@
+div {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff;
+}
+
+h1 {
+    font-size: 60px;
+    margin-top: 20px;
+}
+
+h2 {
+    font-size: 70px;
+}
+
+h5 {
+    margin-top: 10px;
+}
+
+button {
+    margin: 50px 0px;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 8px;
+}
+
+.countries {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 0px 10vw;
+}
+
+.card {
+    color: black;
+    margin: 10px 5px;
+    padding: 5px 10px;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+hr {
+    display: block;
+    width: 30vw;
+    color: #ffffff;
+    margin: 40px auto;
+}

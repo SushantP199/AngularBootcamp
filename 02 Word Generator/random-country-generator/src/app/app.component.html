@@ -1,0 +1,19 @@
+<div class="container-fluid text-center">
+  <h1>Random Country Generator</h1>
+
+  <button (click)="generateRandomNumber()" class="btn btn-light">Generate Random Number</button>
+
+  <section>
+    <h2>{{randomNumber}}</h2>
+    <h5>Random Number Is</h5>
+  </section>
+  
+  <hr/>
+
+  <main>
+    <div class="countries">
+      <div *ngFor="let country of randomCountries" class="card">{{country}}</div>
+    </div>
+    <h5>Random Selected Countries Are</h5>
+  </main>
+</div>
